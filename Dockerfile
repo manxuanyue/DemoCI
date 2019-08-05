@@ -1,4 +1,4 @@
-FROM test.caicloudprivatetest.com/library/openjdk:8u151-alpine3.7
+FROM caiyun.heyteago.com/library/openjdk:8u151-alpine3.7
 
 COPY target/democi.jar  /usr/src/myapp/
 
